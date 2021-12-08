@@ -4,7 +4,7 @@
 
 ## My Carbon Credit Watch
 ### My Carbon Credit Watch
-#### Hackathon Track: Green Track: Build software that relates to the environment or regenerative economy // Infrastructure and Web3 Track:
+####
 
 ##### USA
 
