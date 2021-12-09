@@ -35,3 +35,38 @@ on board customers.
 
 #### License
 This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
+
+
+Prerequisites
+
+# Install
+
+```
+
+npm install
+
+```
+
+or 
+
+```
+
+yarn install
+
+```
+
+# Start
+
+```
+
+npm run dev
+
+```
+
+# Build
+
+```
+
+npm run build
+
+
